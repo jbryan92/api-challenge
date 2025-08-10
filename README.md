@@ -22,7 +22,7 @@ las carpetas necesarias para hacer los registros correspondientes
 Para verificar la utilidad del proyecto se tiene que dar "Run"
 
 
-Este proyecto es el resultado de un curso sobre Spring Boot 3, donde se aplican las mejores prácticas para construir y proteger una API Rest. A continuación, se detalla lo que se ha implementado a lo largo del curso.
+Este proyecto se aplican las prácticas para construir y proteger una API Rest. A continuación, se detalla lo que se ha implementado...
 
 ## Contenido del Challenge
 
