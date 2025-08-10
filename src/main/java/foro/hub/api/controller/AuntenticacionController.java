@@ -3,8 +3,8 @@ package foro.hub.api.controller;
 
 import foro.hub.api.infra.security.DatosTokenJWT;
 import foro.hub.api.infra.security.TokenService;
-import foro.hub.api.usuario.DatosAunteticacion;
-import foro.hub.api.usuario.Usuario;
+import foro.hub.api.domain.usuario.DatosAunteticacion;
+import foro.hub.api.domain.usuario.Usuario;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

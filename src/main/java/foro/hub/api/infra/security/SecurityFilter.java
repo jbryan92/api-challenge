@@ -1,7 +1,7 @@
 package foro.hub.api.infra.security;
 
 
-import foro.hub.api.usuario.UsuarioRepository;
+import foro.hub.api.domain.usuario.UsuarioRepository;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;
